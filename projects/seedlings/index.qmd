@@ -1,0 +1,12 @@
+---
+title: "Post-Fire Seedling Succession"
+description: "A report analyzing seedling growth data in post-fire boreal forest plots"
+image: seedlings_featured.png
+categories:
+  - Ecology
+about:
+  template: solana
+  image: seedlings_featured.png
+---
+
+The final project of my BIO 359 Big Data in Ecology class, this HTML report built using RMarkdown analyses public data sourced from the Bonanza Creek LTER. I investigated post-fire seedling densities of three tree species in Alaska's boreal forest following fire of different intensities.

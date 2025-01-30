@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sarah Thomson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "she/her/hers\nData science student @ Macalester College\n\n\nStatistics Preceptor (undergraduate TA)  Spring 2025 | Macalester College\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine\n\n\n\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027\n\n\n\nemail: sthomson@macalester.edu"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sarah Thomson",
+    "section": "",
+    "text": "Macalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Sarah Thomson",
+    "section": "",
+    "text": "email: sthomson@macalester.edu"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sarah Thomson",
+    "section": "",
+    "text": "Statistics Preceptor (undergraduate TA)  Spring 2025 | Macalester College\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine"
   }
 ]

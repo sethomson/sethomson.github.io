@@ -4,21 +4,20 @@ project:
 
 website:
   title: "Sarah Thomson"
-   about:
-      id: intro-heading
-      template: trestles
-    # image: images/profilepic.jpg
-     links:
-       - icon: github
-         href: https://github.com/sethomson
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - projects.qmd
       
-      
+about:
+  id: intro-heading
+  template: trestles
+  image: IMG_2717.jpeg
+  links:
+     - icon: github
+       href: https://github.com/sethomson
+
 page-footer:
   left: |
       &copy; Sarah Thomson, 2025<br>
