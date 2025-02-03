@@ -10,3 +10,5 @@ about:
 ---
 
 The final project of my BIO 359 Big Data in Ecology class, this HTML report built using RMarkdown analyses public data sourced from the Bonanza Creek LTER. I investigated post-fire seedling densities of three tree species in Alaska's boreal forest following fire of different intensities.
+
+<a href="https://github.com/sethomson/Portfolio/tree/main/Post_Fire_Seedling_Succession" target="_blank" rel="noopener">view all project files on GitHub</a>

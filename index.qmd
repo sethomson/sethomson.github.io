@@ -1,29 +1,30 @@
 ---
 title: "Sarah Thomson"
+about:
+  id: intro-heading
+  template: trestles
+  image: IMG_2717.jpeg
+  links:
+     - icon: github
+       href: https://github.com/sethomson
 ---
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 she/her/hers
 
-Data science student @ Macalester College
+Data science student \@ Macalester College
 
 ## Experience
 
-Statistics Preceptor (undergraduate TA) <br>
-Spring 2025 | Macalester College
+Statistics Preceptor (undergraduate TA) <br> Spring 2025 \| Macalester College
 
-Summer Research Intern <br>
-Summer 2024 | UW-Madison School of Medicine
+Summer Research Intern <br> Summer 2024 \| UW-Madison School of Medicine
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-B.A. in Data Science | Sept 2023 - May 2027
-
+Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2023 - May 2027
 
 ## Get in Touch
 
-email: sthomson@macalester.edu
-
+email: sthomson\@macalester.edu
 :::

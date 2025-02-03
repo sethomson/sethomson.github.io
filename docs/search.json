@@ -33,5 +33,19 @@
     "title": "Sarah Thomson",
     "section": "",
     "text": "Statistics Preceptor (undergraduate TA)  Spring 2025 | Macalester College\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost-Fire Seedling Succession\n\n\n\nEcology\n\n\n\nA report analyzing seedling growth data in post-fire boreal forest plots\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/seedlings/index.html",
+    "href": "projects/seedlings/index.html",
+    "title": "Post-Fire Seedling Succession",
+    "section": "",
+    "text": "The final project of my BIO 359 Big Data in Ecology class, this HTML report built using RMarkdown analyses public data sourced from the Bonanza Creek LTER. I investigated post-fire seedling densities of three tree species in Alaska’s boreal forest following fire of different intensities.\nview all project files on GitHub"
   }
 ]

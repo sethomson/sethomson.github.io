@@ -9,14 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
-      
-about:
-  id: intro-heading
-  template: trestles
-  image: IMG_2717.jpeg
-  links:
-     - icon: github
-       href: https://github.com/sethomson
 
 page-footer:
   left: |
