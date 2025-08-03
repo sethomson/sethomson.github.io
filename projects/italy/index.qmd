@@ -1,0 +1,17 @@
+---
+title: "Italian Agriculture Through the Ages"
+description: "An interactive blog post analyzing crop species distributions in Italy from the early Middle Ages to the modern day"
+image: italy_map.png
+date: "2025-05-01"
+categories:
+  - Environment
+about:
+  template: broadside
+  image: italy_map.png
+---
+
+The final project of my COMP/STAT 212 Intermediate Data Science class, this interactive blog post built using Quarto and Shiny analyses archeobotanical data from across Italy as well as modern-day agriculture production data. My partner Grace Bettenburg and I investigated spatial and temporal patterns of agriculture in Italy in order to explore how humans' relationships to plants have changed over time and how these relationships are tied to location.
+
+<a href="https://0nay3k-sethomson.shinyapps.io/interactive_blog_post/" target="_blank" rel="noopener">Read the blog post</a>
+
+<a href="https://github.com/Mac-Stat-212/212Project_Grace-Sarah" target="_blank" rel="noopener">View our code on Github</a>

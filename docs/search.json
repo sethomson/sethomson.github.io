@@ -39,13 +39,20 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost-Fire Seedling Succession\n\n\n\nEcology\n\n\n\nA report analyzing seedling growth data in post-fire boreal forest plots\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nItalian Agriculture Through the Ages\n\n\n\nEnvironment\n\n\n\nAn interactive blog post analyzing crop species distributions in Italy from the early Middle Ages to the modern day\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost-Fire Seedling Succession\n\n\n\nEnvironment\n\n\n\nA report analyzing seedling growth data in post-fire boreal forest plots\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/seedlings/index.html",
     "href": "projects/seedlings/index.html",
     "title": "Post-Fire Seedling Succession",
     "section": "",
-    "text": "The final project of my BIO 359 Big Data in Ecology class, this HTML report built using RMarkdown analyses public data sourced from the Bonanza Creek LTER. I investigated post-fire seedling densities of three tree species in Alaska’s boreal forest following fire of different intensities.\nview all project files on GitHub"
+    "text": "The final project of my BIO 359 Big Data in Ecology class, this HTML report built using RMarkdown analyses public data sourced from the Bonanza Creek LTER. I investigated post-fire seedling densities of three tree species in Alaska’s boreal forest following fire of different intensities.\nView all project files on GitHub"
+  },
+  {
+    "objectID": "projects/italy/index.html",
+    "href": "projects/italy/index.html",
+    "title": "Italian Agriculture Through the Ages",
+    "section": "",
+    "text": "The final project of my COMP/STAT 212 Intermediate Data Science class, this interactive blog post built using Quarto and Shiny analyses archeobotanical data from across Italy as well as modern-day agriculture production data. My partner Grace Bettenburg and I investigated spatial and temporal patterns of agriculture in Italy in order to explore how humans’ relationships to plants have changed over time and how these relationships are tied to location.\nRead the blog post\nView our code on Github"
   }
 ]
