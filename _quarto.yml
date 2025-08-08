@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - cv.qmd
   page-footer:
     left: |
         &copy; Sarah Thomson, 2025<br>

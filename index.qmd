@@ -7,6 +7,8 @@ about:
   links:
      - icon: github
        href: https://github.com/sethomson
+     - icon: linkedin
+       href: https://www.linkedin.com/in/sarah-thomson-75226b329/
 ---
 
 ::: {#intro-heading}
@@ -16,7 +18,9 @@ Data science student \@ Macalester College
 
 ## Experience
 
-Statistics Preceptor (undergraduate TA) <br> Spring 2025 \| Macalester College
+Statistics Preceptor (undergraduate TA) <br> Spring 2025-present \| Macalester College
+
+Summer Research Intern <br> Summer 2025 \| UMN School of Public Health
 
 Summer Research Intern <br> Summer 2024 \| UW-Madison School of Medicine
 

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sarah Thomson",
     "section": "",
-    "text": "she/her/hers\nData science student @ Macalester College\n\n\nStatistics Preceptor (undergraduate TA)  Spring 2025 | Macalester College\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine\n\n\n\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027\n\n\n\nemail: sthomson@macalester.edu"
+    "text": "she/her/hers\nData science student @ Macalester College\n\n\nStatistics Preceptor (undergraduate TA)  Spring 2025-present | Macalester College\nSummer Research Intern  Summer 2025 | UMN School of Public Health\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine\n\n\n\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027\n\n\n\nemail: sthomson@macalester.edu"
   },
   {
     "objectID": "about.html",
@@ -32,7 +32,7 @@
     "href": "index.html#experience",
     "title": "Sarah Thomson",
     "section": "",
-    "text": "Statistics Preceptor (undergraduate TA)  Spring 2025 | Macalester College\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine"
+    "text": "Statistics Preceptor (undergraduate TA)  Spring 2025-present | Macalester College\nSummer Research Intern  Summer 2025 | UMN School of Public Health\nSummer Research Intern  Summer 2024 | UW-Madison School of Medicine"
   },
   {
     "objectID": "projects.html",
@@ -54,5 +54,33 @@
     "title": "Italian Agriculture Through the Ages",
     "section": "",
     "text": "The final project of my COMP/STAT 212 Intermediate Data Science class, this interactive blog post built using Quarto and Shiny analyses archeobotanical data from across Italy as well as modern-day agriculture production data. My partner Grace Bettenburg and I investigated spatial and temporal patterns of agriculture in Italy in order to explore how humans’ relationships to plants have changed over time and how these relationships are tied to location.\nRead the blog post\nView our code on Github"
+  },
+  {
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Saint Paul, MN | (608)-807-7951 | sthomson@macalester.edu\n\n\nBachelor of Arts in Data Science&lt;"
+  },
+  {
+    "objectID": "resume/index.html#sarah-thomson",
+    "href": "resume/index.html#sarah-thomson",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Saint Paul, MN | (608)-807-7951 | sthomson@macalester.edu\n\n\nBachelor of Arts in Data Science&lt;"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "{width=100%, height=“100%”, style=“min-height:100vh;”}"
+  },
+  {
+    "objectID": "cv.html#sarah-thomson",
+    "href": "cv.html#sarah-thomson",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Saint Paul, MN | (608)-807-7951\n\n\nBachelor of Arts in Data Science&lt;"
   }
 ]
