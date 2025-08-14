@@ -39,7 +39,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nItalian Agriculture Through the Ages\n\n\n\nEnvironment\n\n\n\nAn interactive blog post analyzing crop species distributions in Italy from the early Middle Ages to the modern day\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost-Fire Seedling Succession\n\n\n\nEnvironment\n\n\n\nA report analyzing seedling growth data in post-fire boreal forest plots\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAsian-American Adolescent Psychopathology\n\n\n\nPublic Health\n\n\n\nAn interactive Shiny app investigating subgroup variation in Asian-American adolescent psychopathology\n\n\n\n\n\n\nAug 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItalian Agriculture Through the Ages\n\n\n\nEnvironment\n\n\n\nAn interactive blog post analyzing crop species distributions in Italy from the early Middle Ages to the modern day\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost-Fire Seedling Succession\n\n\n\nEnvironment\n\n\n\nA report analyzing seedling growth data in post-fire boreal forest plots\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/seedlings/index.html",
@@ -82,5 +82,12 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Saint Paul, MN | (608)-807-7951\n\n\nBachelor of Arts in Data Science&lt;"
+  },
+  {
+    "objectID": "projects/psychopathology/index.html",
+    "href": "projects/psychopathology/index.html",
+    "title": "Asian-American Adolescent Psychopathology",
+    "section": "",
+    "text": "This Shiny app displays the findings of my partner Maren Rusk and I’s summer research project at the UMN School of Public Health’s Equitable Data Science Research Experience for Undergraduates. We investigate the importance of disaggregating the monolithic “Asian” race label when considering adolescent psychopathology in order to unmask the wide variation in Asian-American subgroups, considering both ethnicity and other socioeconomic and cultural factors.\nVisit the Shiny app"
   }
 ]

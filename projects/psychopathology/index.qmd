@@ -1,0 +1,15 @@
+---
+title: "Asian-American Adolescent Psychopathology"
+description: "An interactive Shiny app investigating subgroup variation in Asian-American adolescent psychopathology"
+image: psychopathology.png
+date: "2025-08-08"
+categories:
+  - Public Health
+about:
+  template: broadside
+  image: psychopathology.png
+---
+
+This Shiny app displays the findings of my partner Maren Rusk and I's summer research project at the UMN School of Public Health's Equitable Data Science Research Experience for Undergraduates. We investigate the importance of disaggregating the monolithic "Asian" race label when considering adolescent psychopathology in order to unmask the wide variation in Asian-American subgroups, considering both ethnicity and other socioeconomic and cultural factors.
+
+<a href="https://0nay3k-sethomson.shinyapps.io/Shiny_Racial_Disaggregation/" target="_blank" rel="noopener">Visit the Shiny app</a>
